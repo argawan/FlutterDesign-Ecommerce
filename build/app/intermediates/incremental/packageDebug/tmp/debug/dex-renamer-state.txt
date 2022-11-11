@@ -1,0 +1,4 @@
+#Thu Nov 10 02:22:44 PST 2022
+base.0=D\:\\Data Ari Gunawan\\flutter_ecommerce_app-master\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

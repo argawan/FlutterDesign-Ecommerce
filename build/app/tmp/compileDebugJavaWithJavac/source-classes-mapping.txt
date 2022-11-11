@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/thealphamerc/flutter_ecommerce_app/BuildConfig.java
+ com.thealphamerc.flutter_ecommerce_app.BuildConfig
